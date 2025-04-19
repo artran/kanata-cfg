@@ -1,15 +1,7 @@
 {
     "profiles": [
         {
-            "name": "Default profile",
-            "virtual_hid_keyboard": { "country_code": 0 }
-        },
-        {
             "complex_modifications": {
-                "parameters": {
-                    "basic.simultaneous_threshold_milliseconds": 100,
-                    "basic.to_if_held_down_threshold_milliseconds": 150
-                },
                 "rules": [
                     {
                         "description": "G_H = Meh_Hyper ",
@@ -851,7 +843,7 @@
                     ]
                 }
             ],
-            "name": "New profile",
+            "name": "Default profile",
             "selected": true,
             "virtual_hid_keyboard": {
                 "country_code": 0,
