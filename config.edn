@@ -1,0 +1,4 @@
+{:main [{:des "Map Caps Lock to ="
+         :rules [[:##caps_lock :equal_sign]]}
+        ]
+ }
